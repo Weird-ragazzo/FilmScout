@@ -38,3 +38,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Contact 📫
 For any inquiries or feedback, please reach out to me at dhruvraghav2003@gmail.com.
+
+# Important Notice:
+There is a 180 mb file (pkl file) that is required to run this project that i am not able to upload right now. I will make sure to solve this issue ASAP.
