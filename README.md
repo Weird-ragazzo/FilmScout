@@ -12,8 +12,8 @@ Welcome to FilmScout, your personal movie recommendation system! 🎥✨ This pr
 ## Technologies Used 🛠️
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (Flask)
-- **Database**: SQLite (or your choice of database)
-- **Recommendation Algorithm**: Collaborative Filtering / Content-Based Filtering (specify which one you used)
+- **Database**: IMDB database form Kaggle
+- **Recommendation Algorithm**: Vectorization
 
 ## Getting Started 🚀
 
@@ -33,4 +33,8 @@ To run FilmScout locally, follow these simple steps:
    ```bash
    python FilmScout.py
 
+## Contributing 🤝
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repo and submit a pull request.
 
+## Contact 📫
+For any inquiries or feedback, please reach out to me at dhruvraghav2003@gmail.com.
